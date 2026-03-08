@@ -32,7 +32,7 @@ plugins:
 author:
   name     : "Sanghyuk Lee" 
   avatar   : "/assets/images/bio-photo.jpg" # 👈 나중에 이 경로에 프로필 사진을 넣으시면 됩니다
-  bio      : "Researcher at Soongsil University"
+  bio      : ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
